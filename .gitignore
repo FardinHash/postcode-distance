@@ -28,7 +28,7 @@ Thumbs.db
 .idea/
 
 # Excel data
-data/postcode-lat-long.xlsx
+data/postcode-lat-long.json
 
 # Build files
 dist/
